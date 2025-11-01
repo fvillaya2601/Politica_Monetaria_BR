@@ -18,7 +18,7 @@ vectordb = load_vectorstore_from_disk()
 chain = build_chain(vectordb)
 
 if modo == "🤖 Chatbot":
-    st.title("🤖 Asistente de Recursos Humanos")
+    st.title("🤖 Asistente de Política Monetaria")
     pregunta = st.text_input("¿Qué deseas consultar?")
 
     if "chat_history" not in st.session_state:
