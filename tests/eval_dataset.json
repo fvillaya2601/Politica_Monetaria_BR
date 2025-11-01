@@ -1,0 +1,22 @@
+[
+    {
+        "question": "\u00bfQu\u00e9 cubre el plan de beneficios Northwind Health Plus?",
+        "answer": "El plan Northwind Health Plus cubre atenci\u00f3n m\u00e9dica, dental, de la vista, medicamentos recetados y servicios de salud mental."
+    },
+    {
+        "question": "\u00bfCu\u00e1l es el procedimiento para tomar una licencia por maternidad?",
+        "answer": "Debes notificar a Recursos Humanos al menos 30 d\u00edas antes de la fecha esperada y presentar la documentaci\u00f3n m\u00e9dica correspondiente."
+    },
+    {
+        "question": "\u00bfQu\u00e9 incluye el programa PerksPlus?",
+        "answer": "PerksPlus incluye descuentos en gimnasios, membres\u00edas de bienestar, vales de alimentos y soporte financiero."
+    },
+    {
+        "question": "\u00bfQu\u00e9 responsabilidades tiene un analista de datos seg\u00fan el role library?",
+        "answer": "Seg\u00fan el Role Library, un analista de datos debe recolectar, limpiar y analizar datos para generar reportes estrat\u00e9gicos para el negocio."
+    },
+    {
+        "question": "\u00bfCu\u00e1les son los beneficios est\u00e1ndar de Northwind?",
+        "answer": "Los beneficios est\u00e1ndar incluyen seguro m\u00e9dico b\u00e1sico, vacaciones pagadas, y plan de retiro 401(k)."
+    }
+]
