@@ -1,22 +1,22 @@
 [
     {
-        "question": "\u00bfQu\u00e9 cubre el plan de beneficios Northwind Health Plus?",
-        "answer": "El plan Northwind Health Plus cubre atenci\u00f3n m\u00e9dica, dental, de la vista, medicamentos recetados y servicios de salud mental."
+        "question": "Cuáles fueron los principales obstáculos que impidieron que la inflación bajara más rápido?",
+        "answer": "La inflación de servicios, Aumentos del salario mínimo, Precios de bienes regulados, Expectativas de inflación."
     },
     {
-        "question": "\u00bfCu\u00e1l es el procedimiento para tomar una licencia por maternidad?",
-        "answer": "Debes notificar a Recursos Humanos al menos 30 d\u00edas antes de la fecha esperada y presentar la documentaci\u00f3n m\u00e9dica correspondiente."
+        "question": "Cuál fue el riesgo interno que más preocupó a la Junta Directiva?",
+        "answer": "El riesgo interno más mencionado y que mayor preocupación generó fue la situación fiscal del país."
     },
     {
-        "question": "\u00bfQu\u00e9 incluye el programa PerksPlus?",
-        "answer": "PerksPlus incluye descuentos en gimnasios, membres\u00edas de bienestar, vales de alimentos y soporte financiero."
+        "question": "Qué riesgos económicos y fiscales identificó la Junta para Colombia?",
+        "answer": "Los principales riesgos señalados fueron: dudas sobre la sostenibilidad de las finanzas públicas, volatilidad del peso y precios del petróleo, aumentos del salario mínimo, tensiones comerciales globales."
     },
     {
-        "question": "\u00bfQu\u00e9 responsabilidades tiene un analista de datos seg\u00fan el role library?",
-        "answer": "Seg\u00fan el Role Library, un analista de datos debe recolectar, limpiar y analizar datos para generar reportes estrat\u00e9gicos para el negocio."
+        "question": "Cómo evolucionaron la inflación y las expectativas durante este periodo?",
+        "answer": "La inflación general bajó desde cerca de 7% en 2024 hasta alrededor de 5% en 2025, aunque con señales de estancamiento en el segundo semestre de 2025."
     },
     {
-        "question": "\u00bfCu\u00e1les son los beneficios est\u00e1ndar de Northwind?",
-        "answer": "Los beneficios est\u00e1ndar incluyen seguro m\u00e9dico b\u00e1sico, vacaciones pagadas, y plan de retiro 401(k)."
+        "question": "Cómo fue el desempeño general de la economía real (crecimiento y empleo) durante este período",
+        "answer": "En general, la economía colombiana mostró un desempeño positivo y dinámico; La actividad económica se recuperó y mostró un dinamismo creciente y la tasa de desempleo mostró caídas y se ubicó en niveles bajos."
     }
 ]
