@@ -103,7 +103,7 @@ def load_vectorstore_from_disk(persist_path=VECTOR_DIR):
     return FAISS.load_local(full_path, embeddings, allow_dangerous_deserialization=True)
 
 
-def load_prompt(version="v1_analista_monetario"):
+def load_prompt(version="v1_asistente_PM"):
     """Carga y devuelve el PromptTemplate completo para la cadena RAG."""
     
     # Se recomienda crear un template único que incluya el historial de chat 
@@ -135,7 +135,7 @@ def load_prompt(version="v1_analista_monetario"):
     )
 
 
-def build_chain(vectordb, prompt_version="v1_analista_monetario"):
+def build_chain(vectordb, prompt_version="v1_asistente_PM"):
     """Construye y devuelve la ConversationalRetrievalChain."""
     
     prompt = load_prompt(prompt_version)
