@@ -71,7 +71,7 @@ def load_prompt(version="v1_asistente_rrhh"):
         prompt_text = f.read()
     return PromptTemplate(input_variables=["context", "question"], template=prompt_text)
 
-def build_chain(vectordb, prompt_version="v1_asistente_rrhh"):
+def build_chain(vectordb, prompt_version="v1_asistente_PM"):
     prompt = load_prompt(prompt_version)
     retriever = vectordb.as_retriever()
     return ConversationalRetrievalChain.from_llm(
