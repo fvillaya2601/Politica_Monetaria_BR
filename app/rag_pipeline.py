@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 
 # --- 1. CORRECCIÓN DE IMPORTACIONES DE LANGCHAIN ---
 # La importación de 'globals' fue movida a 'callbacks' en versiones recientes.
-from langchain.callbacks import set_verbose, get_verbose
+from langchain_core.callbacks import set_verbose, get_verbose
 
 set_verbose(True) # Si quieres ver logs detallados
 
